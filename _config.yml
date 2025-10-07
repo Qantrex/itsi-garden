@@ -1,0 +1,10 @@
+# 1. Choose a theme
+theme: jekyll-theme-minimal
+
+# 2. Add a title and description
+title: My Awesome Project
+description: A short description of my project or website.
+
+# 3. Add plugins for more features
+plugins:
+  - jekyll-seo-tag
